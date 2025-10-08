@@ -1,0 +1,4 @@
+include(
+    "org.jd.ide.eclipse.plugin",
+    "org.jd.ide.eclipse.feature"
+)

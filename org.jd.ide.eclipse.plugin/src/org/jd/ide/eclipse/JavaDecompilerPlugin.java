@@ -31,8 +31,8 @@ public class JavaDecompilerPlugin extends AbstractUIPlugin {
 	private static final String EDITOR_ID = PLUGIN_ID + ".editors.JDClassFileEditor";	
 	
 	// Versions
-	public static final String VERSION_JD_ECLIPSE = "2.0.0";
-	public static final String VERSION_JD_CORE    = "1.0.7";
+	public static final String VERSION_JD_ECLIPSE = "3.0.0";
+	public static final String VERSION_JD_CORE    = "1.1.5";
 
 	// Preferences
 	public static final String PREF_ESCAPE_UNICODE_CHARACTERS   = PLUGIN_ID + ".prefs.EscapeUnicodeCharacters";
@@ -41,7 +41,7 @@ public class JavaDecompilerPlugin extends AbstractUIPlugin {
 	public static final String PREF_SHOW_METADATA               = PLUGIN_ID + ".prefs.ShowMetadata";
 
 	// URLs
-	public static final String URL_JDECLIPSE = "https://github.com/java-decompiler/jd-eclipse";
+	public static final String URL_JDECLIPSE = "https://github.com/skyriyvrzo/jd-eclipse";
 	
 	// The shared instance
 	private static JavaDecompilerPlugin plugin;
